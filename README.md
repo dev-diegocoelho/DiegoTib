@@ -23,10 +23,11 @@ Aqui estão algumas das tecnologias com as quais estudo no dia a dia:
 ### 📊 Estatísticas do GitHub
 <!-- ATENÇÃO: Substitua "seu-usuario" pelo seu nome de utilizador real do GitHub em minúsculas -->
 
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" height="150" />
-  <img src="https://vercel.app" alt="Linguagens mais usadas" height="150" />
-</p>
+<div>
+   <a href="https://github.com/dev-diegocoelho">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-diegocoelho&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-diegocoelho&layout=compact&langs_count=6&theme=gotham"/>
+</div>
 
 ---
 
