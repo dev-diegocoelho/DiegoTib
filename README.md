@@ -1,7 +1,7 @@
 # Olá, eu sou o Diego! 👋
 
 ### 🚀 Sobre mim
-Bem-vindo(a) ao meu perfil! Sou um desenvolvedor focado em criar soluções e aprender novas tecnologias.
+Bem-vindo(a) ao meu perfil! Quero ser um desenvolvedor que traga soluções para necessidades do seu negócio.
 
 - ✉️ Como entrar em contacto comigo: diego_coelho@live.com
 
@@ -37,8 +37,5 @@ Vamos conversar! Conecte-se comigo através das redes:
  <a href="https://www.linkedin.com/in/diego-felipe-de-goes-coelho-999b95110" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br />
 
-<!-- Contador de Visitas: Substitua "seu-usuario" pelo seu nome real do GitHub -->
-<p align="left">
-  <img src="https://komarev.com" alt="Contador de Visitas" />
-</p>
+![](https://komarev.com/ghpvc/?username=dev-diegocoelho-github-username&label=PROFILE+VIEWS)
 
