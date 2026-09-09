@@ -1,7 +1,7 @@
 # Olá, eu sou o Diego! 👋
 
 ### 🚀 Sobre mim
-Bem-vindo(a) ao meu perfil! Quero ser um desenvolvedor que traga soluções para necessidades do seu negócio.
+Bem-vindo(a) ao meu perfil! Quero ser um desenvolvedor que traga soluções para as necessidades do seu negócio.
 
 - ✉️ Como entrar em contacto comigo: diego_coelho@live.com
 
