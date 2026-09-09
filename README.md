@@ -3,7 +3,7 @@
 ### 🚀 Sobre mim
 Bem-vindo(a) ao meu perfil! Sou um desenvolvedor focado em criar soluções e aprender novas tecnologias.
 
-- ✉️ Como entrar em contacto comigo: **[diego_coelho@live.com]**
+- ✉️ Como entrar em contacto comigo: diego_coelho@live.com
 
 ---
 
@@ -34,9 +34,7 @@ Aqui estão algumas das tecnologias com as quais estudo no dia a dia:
 Vamos conversar! Conecte-se comigo através das redes:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/diego-felipe-de-goes-coelho-999b95110/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
+ <a href="https://www.linkedin.com/in/diego-felipe-de-goes-coelho-999b95110" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <br />
 
 <!-- Contador de Visitas: Substitua "seu-usuario" pelo seu nome real do GitHub -->
