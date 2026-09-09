@@ -21,9 +21,14 @@ Aqui estão algumas das tecnologias com as quais estudo no dia a dia:
 ---
 
 ### 📊 Estatísticas do GitHub
-<a href="https://github.com/dev-diegocoelho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-diegocoelho&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-diegocoelho&layout=compact&langs_count=6&theme=gotham"/>
+
+ <a href="https://github.com/dev-diegocoelho">
+    <img height="180em"
+         src="https://github-readme-stats.shion.dev/api?username=dev-diegocoelho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  </a>
+
+<img height="180em"
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=dev-diegocoelho&layout=compact&langs_count=6&theme=dracula"/>
 
 ---
 
